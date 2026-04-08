@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack projects using Nodejs, Express, React, MongoDB and Java<br>Open-source projects, backend systems, and REST API–based applications<br>Docker, System Design, Git and Machine Learning<br>Java, Spring Boot, REST APIs, SQL, React, Docker, and backend architecture<br>I enjoy debugging tricky bugs almost as much as playing competitive cricke<br>
+Full-stack projects using Nodejs, Express, React, MongoDB and Java<br>Open-source projects, backend systems, and REST API–based applications<br>Docker, System Design, Git and Machine Learning<br>Java, Spring Boot, REST APIs, SQL, React, Docker, and backend architecture<br>I enjoy debugging tricky bugs almost as much as playing competitive cricket<br>
 
 
 ## 🌐 Socials:
